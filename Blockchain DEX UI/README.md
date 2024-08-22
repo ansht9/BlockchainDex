@@ -1,4 +1,4 @@
 After cloning the repo go to the frontend folder and run:
-npm i
+"npm i"
 Then run:
-npm run start
+"npm run start"
